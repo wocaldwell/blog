@@ -1,0 +1,132 @@
+/*************************************
+  GENERAL
+*************************************/
+
+body {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+#wrapper {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
+
+a {
+  text-decoration: none;
+}
+
+div {
+  padding: 1% 1%;
+}
+
+div h2 {
+  margin: -5px 0 0;
+  padding: 0 0 0 5%;
+  font-weight: normal;
+}
+
+div h6 {
+  text-align: right;
+  padding: 0 5% 0 0;
+  border-right: 5px solid #F5ACDE;
+}
+
+div p {
+  border-radius: 25px;
+  padding: 2%;
+}
+
+img {
+  display: block;
+  margin: 1% auto 0 auto;
+}
+
+
+
+
+
+/*************************************
+  HEADING
+*************************************/
+
+header {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.75em;
+  font-weight: normal;
+  line-height: 0.8em;
+  float: left;
+  margin: 0 0 4% 0;
+  padding: 2% 0 0 0;
+  width: 100%
+}
+
+#blog_name {
+  text-align: center;
+  margin: 0;
+}
+
+
+
+
+/*************************************
+ FOOTER
+*************************************/
+
+footer {
+  font-size: 0.75em;
+  text-align: center;
+  padding-top: 50px;
+  color: #548F40;
+}
+
+
+/*************************************
+  COLORS
+*************************************/
+
+/*  header/footer */
+header,
+footer {
+  background-color: #F5F188;
+  border-color: #599a68;
+}
+
+/* site body */
+body {
+  background-color: #fff;
+  color: #999;
+}
+
+
+
+/* article */
+div p {
+  background-color: #F5ACDE;
+}
+
+div h6 {
+  color: #000;
+}
+
+/* header text */
+header h1,
+h2 {
+  color: #fff;
+}
+
+/* article text */
+div h2 {
+ color: black;
+}
+
+/* links */
+a {
+  color: #6ab47b;
+}
+
+
+
+
+
+
